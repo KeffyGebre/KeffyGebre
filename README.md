@@ -11,7 +11,7 @@ Statistics
 Data Analytics
 Database Design and Implementation
 Programming Languages Used Python, R and NLTK
-- 💞️ I’m looking to collaborate on projects that help promote language education, documentation, and revitalization.
+- 💞️ I’m looking forward to collaborating on projects that help promote language education, NLP, documentation, and revitalization.
 - 📫 I am reachable via my email address on github and other socialmedia platforms.
 
 <!---
